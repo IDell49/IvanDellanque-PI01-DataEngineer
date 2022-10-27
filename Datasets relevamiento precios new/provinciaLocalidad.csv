@@ -1,0 +1,692 @@
+provinciaLocalidadId,provinciaId,localidad
+1,1,BARRIO CASTAÑARES
+2,1,Capital
+3,1,Joaquin V Gonzalez
+4,1,Metan
+5,1,ORAN
+6,1,SALTA
+7,1,SAN RAMON DE LA NUEVA ORAN
+8,1,Salta
+9,1,San Ramon de la Nueva Oran
+10,1,TARTAGAL
+11,2,25 De Mayo
+12,2,25 de Mayo
+13,2,3 de Febrero
+14,2,9 De Abril
+15,2,9 de Julio
+16,2,ACASSUSO
+17,2,ADROGUE
+18,2,ALMIRANTE BROWN
+19,2,AVELLANEDA
+20,2,Acassuso
+21,2,Adolfo Sordeaux
+22,2,Adolfo Sourdeaux
+23,2,Adrogue
+24,2,Adrogué
+25,2,Alberti
+26,2,Aldo Bonzi
+27,2,Alejandro Korn
+28,2,Almirante Brown
+29,2,America
+30,2,Arrecifes
+31,2,Avellaneda
+32,2,Ayacucho
+33,2,Azul
+34,2,BAHIA BLANCA
+35,2,BANFIELD
+36,2,BARRIO EL DORADO
+37,2,BELEN DE ESCOBAR
+38,2,BELLA VISTA
+39,2,BERAZATEGUI
+40,2,Bahia Blanca
+41,2,Bahía Blanca
+42,2,Balcarce
+43,2,Banfield
+44,2,Batán
+45,2,Beccar
+46,2,Bella Vista
+47,2,Benavidez
+48,2,Benito Juarez
+49,2,Berazategui
+50,2,Berisso
+51,2,Bernal
+52,2,Bolivar
+53,2,Boulogne
+54,2,Bragado
+55,2,Budge
+56,2,Burzaco
+57,2,CAMPANA
+58,2,CANNING
+59,2,CASEROS
+60,2,"CASEROS ,PARTIDO 3 DE FEBRERO"
+61,2,CASTELAR
+62,2,CAÑUELAS
+63,2,CHASCOMUS
+64,2,CHIVILCOY
+65,2,CITY BELL
+66,2,CIUDADELA
+67,2,CLAYPOLE
+68,2,Cabildo
+69,2,Campana
+70,2,Capital Federal
+71,2,Capitan Sarmiento
+72,2,Capitán Sarmiento
+73,2,Carapachay
+74,2,Carlos Casares
+75,2,Carmen De Areco
+76,2,Carmen de Patagones
+77,2,Carmen de Patagones 
+78,2,Casbas
+79,2,Caseros
+80,2,Castelar
+81,2,CaÃ±uelas
+82,2,Chacabuco
+83,2,Chascomus
+84,2,Chilavert
+85,2,Chivilcoy
+86,2,Ciudad Jardín del Palomar
+87,2,Ciudadela
+88,2,Claypole
+89,2,Colon
+90,2,Coronel Brandsen
+91,2,Coronel Dorrego
+92,2,Coronel Pringles
+93,2,Coronel Suarez
+94,2,Coronel Vidal
+95,2,DEL VISO
+96,2,Daireaux
+97,2,Del Viso
+98,2,Derqui
+99,2,Dolores
+100,2,Don Bosco
+101,2,Don Torcuato
+102,2,ENSENADA
+103,2,El Jaguel Pdo Esteb Eche
+104,2,El Palomar
+105,2,Ensenada
+106,2,Escobar
+107,2,Esteban Echeverria
+108,2,Ezeiza
+109,2,Ezpeleta
+110,2,FLORENCIO VARELA
+111,2,Florencio Varela
+112,2,Florentino Ameghino
+113,2,Florida
+114,2,Francisco Alvarez
+115,2,GENERAL PACHECO
+116,2,GERLI
+117,2,GONZALEZ CATAN
+118,2,GRAND BOURG
+119,2,GREGORIO DE LAFERRERE
+120,2,Garin
+121,2,General Alvear
+122,2,General Belgrano
+123,2,General Cerri
+124,2,General Lamadrid
+125,2,General Lavalle
+126,2,General Madariaga
+127,2,General Pacheco
+128,2,General Pueyrredon
+129,2,General Rodriguez
+130,2,General Rodríguez
+131,2,General San Martin
+132,2,General Villegas
+133,2,Gerli
+134,2,Glew
+135,2,Gonzalez Catan
+136,2,Gral Madariaga
+137,2,Gral Pinto
+138,2,Grand Bourg
+139,2,Gregorio de Laferrere
+140,2,HURLINGHAM
+141,2,Haedo
+142,2,Henderson
+143,2,Hurlingham
+144,2,INGENIERO PABLO NOGUES
+145,2,ITUZAINGO
+146,2,Ingeniero Maschwitz
+147,2,Ingeniero Pablo Nogues
+148,2,Isidro Casanova
+149,2,Ituizango
+150,2,Ituzaingó
+151,2,JOSE C. PAZ
+152,2,JOSE CLEMENTE PAZ
+153,2,JUNIN
+154,2,Jose C Paz
+155,2,Jose C. Paz
+156,2,Jose Leon Suarez
+157,2,Jose León Suárez
+158,2,Jose Manuel Marmol
+159,2,José León Suárez
+160,2,Junin
+161,2,LA PLATA
+162,2,LA PLATA NOROESTE DE LA CALLE 50
+163,2,LANUS
+164,2,LAS ARMAS
+165,2,LAS FLORES
+166,2,LLAVALLOL
+167,2,LOBOS
+168,2,LOMAS DE ZAMORA
+169,2,LUJAN
+170,2,La Horqueta
+171,2,La Matanza
+172,2,La Plata
+173,2,La Reja
+174,2,Laferrere
+175,2,Lanus
+176,2,Lanús
+177,2,Laprida
+178,2,Las Flores
+179,2,Las Heras
+180,2,Las Lomas
+181,2,Lincoln
+182,2,Llavallol
+183,2,Loberia
+184,2,Lobería
+185,2,Lobos
+186,2,Loma Hermosa
+187,2,Loma Verde
+188,2,Lomas De Zamora
+189,2,Lomas Del Mirador
+190,2,Lomas de Zamora
+191,2,Longchamps
+192,2,Los Polvorines
+193,2,Los Toldos
+194,2,Luis Guillon
+195,2,Lujan
+196,2,Luján
+197,2,MAR DEL PLATA
+198,2,MARTINEZ
+199,2,MERCEDES
+200,2,MERLO
+201,2,MIRAMAR
+202,2,MONTE GRANDE
+203,2,MORENO
+204,2,MORON
+205,2,MUNRO
+206,2,Maipu
+207,2,Malvinas Argentinas
+208,2,Maq Francisco Savio
+209,2,Maquinista Savio
+210,2,Mar De Ajo
+211,2,Mar Del Plata
+212,2,Mar del Plata
+213,2,Martin Coronado
+214,2,Martín Coronado
+215,2,Martínez
+216,2,Maschwitz
+217,2,Matanza
+218,2,Matheu
+219,2,Mayor Buratovich
+220,2,Mercedes
+221,2,Merlo
+222,2,Miramar
+223,2,Monte
+224,2,Monte Chingolo
+225,2,Monte Grande
+226,2,Monte Hermoso
+227,2,Moreno
+228,2,Moron
+229,2,Morón
+230,2,Munro
+231,2,Médanos
+232,2,NECOCHEA
+233,2,Navarro
+234,2,Necochea
+235,2,OLAVARRIA
+236,2,OLIVOS
+237,2,Olavarria
+238,2,Olavarría
+239,2,Olivos
+240,2,PERGAMINO
+241,2,PILAR
+242,2,PINAMAR
+243,2,Pablo Podesta
+244,2,Palomar
+245,2,Paso Del Rey
+246,2,Paso del Rey
+247,2,Pedro Luro
+248,2,Pehuajo
+249,2,Pehuajó
+250,2,Pergamino
+251,2,Pigue
+252,2,Pilar
+253,2,Pinamar
+254,2,Puan
+255,2,Puerto Belgrano
+256,2,Punta Alta
+257,2,Punta Chica
+258,2,QUILMES
+259,2,QUILMES OESTE
+260,2,Quequen
+261,2,Quilmes
+262,2,RAMOS MEJIA
+263,2,REMEDIOS DE ESCALADA
+264,2,ROJAS
+265,2,Rafael Calzada
+266,2,Rafael Castillo
+267,2,Ramos Mejia
+268,2,Ramos Mejía
+269,2,Ranchos
+270,2,Rauch
+271,2,Remedios de Escalada
+272,2,Rojas
+273,2,Roque Perez
+274,2,S.F.Solano
+275,2,SALADILLO
+276,2,SAN ANTONIO DE PADUA
+277,2,SAN BERNARDO DEL TUYU
+278,2,SAN CLEMENTE DEL TUYU
+279,2,SAN FERNANDO
+280,2,SAN FRANCISCO SOLANO
+281,2,SAN ISIDRO
+282,2,"SAN ISIDRO ,PTDO. SAN ISIDRO"
+283,2,SAN JUSTO
+284,2,SAN MARTIN
+285,2,SAN MARTIN. PTO.GRAL SAN MARTIN
+286,2,SAN MIGUEL
+287,2,SAN PEDRO
+288,2,SAN VICENTE
+289,2,SANTOS LUGARES
+290,2,SARANDI
+291,2,Saavedra
+292,2,Saladillo
+293,2,Salto
+294,2,San Andres De Giles
+295,2,San Antonio De Areco
+296,2,San Antonio De Padua
+297,2,San Antonio de Padua
+298,2,San Fernando
+299,2,San Francisco Solano
+300,2,San Isidro
+301,2,San Justo
+302,2,San Martin
+303,2,San Martín
+304,2,San Miguel
+305,2,San Nicolas
+306,2,San Nicolás
+307,2,San Pedro
+308,2,San Vicente
+309,2,Santos Lugares
+310,2,Sarandi
+311,2,Stroeder            
+312,2,TABLADA
+313,2,TANDIL
+314,2,TAPIALES
+315,2,TEMPERLEY
+316,2,TIGRE
+317,2,TORTUGUITAS
+318,2,TRES ARROYOS
+319,2,TRISTAN SUAREZ
+320,2,Tablada
+321,2,Tandil
+322,2,Tapalque
+323,2,Tapiales
+324,2,Temperley
+325,2,Tigre
+326,2,Tornquist
+327,2,Tortuguitas
+328,2,Trenque Lauquen
+329,2,Tres Arroyos
+330,2,Trujui
+331,2,VICENTE LOPEZ
+332,2,VILLA BALLESTER
+333,2,VILLA GESELL
+334,2,VILLA SANTOS TESEI
+335,2,VIRREYES
+336,2,Valentín Alsina
+337,2,Vicente Lopez
+338,2,Vicente López
+339,2,Victoria
+340,2,Villa Adelina
+341,2,Villa Ballester
+342,2,Villa Bosch
+343,2,Villa Bosh
+344,2,Villa Celina
+345,2,Villa Gesell
+346,2,Villa Madero
+347,2,Villa Rosa
+348,2,Villa Tesei
+349,2,Villalonga
+350,2,Virrey Del Pino
+351,2,Virreyes
+352,2,Vte Lopez
+353,2,WILLIAMS MORRIS *
+354,2,Wilde
+355,2,ZARATE
+356,2,ZONA DELTA TIGRE
+357,2,Zarate
+358,2,Zárate
+359,3,Abasto
+360,3,Almagro
+361,3,Barracas
+362,3,Barrio Norte
+363,3,Belgrano
+364,3,Boedo
+365,3,CABA
+366,3,CAPITAL FEDERAL
+367,3,CIUDAD AUTONOMA BUENOS AIRES
+368,3,Caba
+369,3,Caballito
+370,3,Capital Federal
+371,3,Cdad. De Bs.As
+372,3,Ciudad Autonoma de Buenos Aires
+373,3,Ciudad Autónoma de Buenos Aires
+374,3,Constitucion
+375,3,Devoto
+376,3,Flores
+377,3,Flores Sur
+378,3,Floresta
+379,3,Liniers
+380,3,Lugano
+381,3,Mataderos
+382,3,Once
+383,3,Palermo
+384,3,Parque Chacabuco
+385,3,Parque Patricios
+386,3,Paternal
+387,3,Pompeya
+388,3,Saavedra
+389,3,San Cristobal
+390,3,San Telmo
+391,3,Tribunales
+392,3,V Illa Lugano
+393,3,Villa Crespo
+394,3,Villa Devoto
+395,3,Villa Luro
+396,3,Villa Urquiza
+397,4,Juana Koslay
+398,4,La Punta
+399,4,Merlo
+400,4,SAN LUIS
+401,4,SAN MARTIN
+402,4,San Luis
+403,4,VILLA MERCEDES
+404,4,Villa Mercedes
+405,5,Bovril
+406,5,CHAJARI
+407,5,CONCORDIA
+408,5,Chajari
+409,5,Colon
+410,5,Colonia Cerrito
+411,5,Concepc Del Uruguay
+412,5,Concordia
+413,5,Crespo
+414,5,Diamante
+415,5,Federacion
+416,5,Federal
+417,5,GUALEGUAYCHU
+418,5,General Galarza
+419,5,Gualeguay
+420,5,Gualeguaychu
+421,5,La Paz
+422,5,Macia
+423,5,Nogoya
+424,5,PARANA
+425,5,Parana
+426,5,Parana-Entre Rios
+427,5,Paraná
+428,5,Ramirez
+429,5,Rosario Del Tala
+430,5,San Salvador
+431,5,Santa Elena Dpto La Paz
+432,5,Viale
+433,5,Victoria
+434,5,Villa Elisa
+435,5,Villa Hernandarias
+436,5,Villa San Jose
+437,5,Villaguay
+438,6,LA RIOJA
+439,6,La Rioja
+440,7,FRIAS
+441,7,La Banda
+442,7,SANTIAGO DEL ESTERO
+443,8,ANTEQUERAS
+444,8,PRESIDENCIA ROQUE SAENZ PEÑA
+445,8,RESISTENCIA
+446,8,Resisitencia
+447,8,Resistencia
+448,9,BARRIO RAWSON
+449,9,BARRIO RIVADAVIA
+450,9,Rawson
+451,9,SAN JUAN
+452,9,San Juan
+453,10,RECREO
+454,10,SAN FDO DEL VALLE DE CATAMARCA
+455,10,SAN FERNANDO DEL VALLE DE CATAMARCA
+456,10,San Fernando del Valle de Catamarca
+457,10,VILLA DOLORES
+458,11,Eduardo Castex
+459,11,GENERAL PICO
+460,11,General Acha
+461,11,General Pico
+462,11,Guatrache
+463,11,Intendente Alvear
+464,11,SANTA ROSA
+465,11,Santa Rosa
+466,12,BARRIO RIVADAVIA
+467,12,CARRODILLA  LA PUNTILLA
+468,12,EUGENIO BUSTOS
+469,12,GENERAL ALVEAR
+470,12,GENERAL SAN MARTIN
+471,12,GODOY CRUZ
+472,12,Godoy Cruz
+473,12,Guaymallen
+474,12,LAS HERAS
+475,12,LUJAN DE CUYO
+476,12,Luján de Cuyo
+477,12,MAIPU
+478,12,MALARGUE
+479,12,MENDOZA
+480,12,MENDOZA CIUDAD
+481,12,Mendoza
+482,12,RODEO DE LA CRUZ
+483,12,SAN JOSE DE GUAYMALLEN
+484,12,SAN RAFAEL
+485,12,TUNUYAN
+486,12,TUPUNGATO
+487,12,Tupungato
+488,12,USPALLATA
+489,12,VILLA NUEVA DE GUAYMALLEN
+490,12,VILLANUEVA
+491,12,Villa Nueva
+492,13,POSADAS
+493,13,Posadas
+494,14,CLORINDA
+495,14,FORMOSA
+496,14,Formosa
+497,15,Aguada San Roque
+498,15,Andacollo
+499,15,Centenario
+500,15,Chos Malal
+501,15,Cutral Co
+502,15,Junin de los Andes
+503,15,Junín de los Andes
+504,15,Las Lajas
+505,15,Loncopué
+506,15,NEUQUEN
+507,15,Neuquen
+508,15,Neuquén
+509,15,Plaza Huincul
+510,15,Plottier
+511,15,Rincon de los Sauces
+512,15,San Martin de los Andes
+513,15,San Martín de los Andes
+514,15,Villa la Angostura
+515,15,Zapala
+516,16,Allen
+517,16,Bariloche
+518,16,CIPOLLETTI
+519,16,Catriel
+520,16,Chimpay
+521,16,Choele Choel
+522,16,Cinco Saltos
+523,16,Cipolletti
+524,16,El Bolson
+525,16,Fernandez Oro
+526,16,GENERAL ROCA
+527,16,General Roca
+528,16,Ingeniero Huergo
+529,16,Lamarque
+530,16,Las Grutas
+531,16,Luis Beltran
+532,16,RIO NEGRO
+533,16,Rio Colorado
+534,16,Río Colorado
+535,16,SAN CARLOS DE BARILOCHE
+536,16,San Antonio Oeste
+537,16,San Carlos de Bariloche
+538,16,Sierra Grande
+539,16,VIEDMA
+540,16,Viedma
+541,16,Villa Regina
+542,17,ARROYO SECO
+543,17,Arroyo Seco
+544,17,Capital
+545,17,Ciudad De Santa Fe
+546,17,Cuidad De Santa Fe
+547,17,Esperanza
+548,17,FUNES
+549,17,Firmat
+550,17,Fisherton
+551,17,Funes
+552,17,ROSARIO
+553,17,Rafaela
+554,17,Rosario
+555,17,Rufino
+556,17,SANTA FE
+557,17,San Jorge
+558,17,San Justo
+559,17,Santa Fe
+560,17,Santo Tome
+561,17,VENADO TUERTO
+562,17,Venado Tuerto
+563,17,Villa Constitucion
+564,18,BANDA DEL RIO SALI
+565,18,CONCEPCION
+566,18,JUAN BAUTISTA ALBERDI
+567,18,MONTEROS VIEJO
+568,18,SAN MIGUEL DE TUCUMAN
+569,18,San Miguel de Tucuman
+570,18,San Miguel de Tucumán
+571,18,TAFI VIEJO
+572,18,YERBA BUENA
+573,18,Yerba Buena
+574,19,COMODORO RIVADAVIA
+575,19,Comodoro Rivadavia
+576,19,Esquel
+577,19,Gaiman
+578,19,Lago Puelo
+579,19,PUERTO MADRYN
+580,19,Playa Union
+581,19,Puerto Madryn
+582,19,Rada Tilly
+583,19,Rawson
+584,19,Sarmiento
+585,19,TRELEW
+586,19,Trelew
+587,19,Trevelin
+588,20,Rio Grande
+589,20,Río Grande
+590,20,Tolhuin
+591,20,Ushuaia
+592,21,Bella Vista (Ctes.)
+593,21,CORRIENTES
+594,21,Corrientes
+595,21,Curuzu-Cuatia
+596,21,Esquina
+597,21,GOYA
+598,21,Goya
+599,21,Mercedes
+600,21,Monte Caseros
+601,21,PASO DE LOS LIBRES
+602,22,ALTA GRACIA
+603,22,Almafuerte
+604,22,Alta Gracia
+605,22,Alto Verde
+606,22,Arroyito
+607,22,BARRIO AERONAUTICO *
+608,22,BARRIO MATIENZO *
+609,22,BELL VILLE
+610,22,Bell Ville
+611,22,CAPILLA DEL MONTE
+612,22,CARLOS PAZ
+613,22,CIUDAD DE CORDOBA NORTE
+614,22,CORDOBA
+615,22,COSQUIN
+616,22,CRUZ DEL EJE
+617,22,CURA BROCHERO
+618,22,Capital
+619,22,Cordoba
+620,22,Córdoba
+621,22,DEAN FUNES
+622,22,Hernando
+623,22,JESUS MARIA
+624,22,Jardin Espinoza
+625,22,LA CUMBRE
+626,22,LA FALDA
+627,22,LAS VARILLAS
+628,22,La Carlota
+629,22,Laboulaye
+630,22,Leones
+631,22,MARCOS JUAREZ
+632,22,MINA CLAVERO
+633,22,MORTEROS
+634,22,Marcos Juares
+635,22,Marcos Juarez
+636,22,Morteros
+637,22,Oncativo
+638,22,PILAR
+639,22,Quintas de Arguello
+640,22,RIO CEBALLOS
+641,22,RIO CUARTO
+642,22,RIO SEGUNDO
+643,22,RIO TERCERO
+644,22,Rio Tercero
+645,22,Río Cuarto
+646,22,SALSIPUEDES
+647,22,SAN FRANCISCO
+648,22,STA.ROSA CALAMUCHITA
+649,22,Sampacho
+650,22,San Francisco Dpto S Just
+651,22,Santa Rosa De Calamuchita
+652,22,UNQUILLO
+653,22,VILLA ALLENDE
+654,22,VILLA CARLOS PAZ
+655,22,VILLA DEL ROSARIO
+656,22,VILLA DOLORES
+657,22,VILLA MARIA
+658,22,VILLA NUEVA
+659,22,Valle Hermoso
+660,22,Villa Allende
+661,22,Villa Allende Lomas
+662,22,Villa Carlos Paz
+663,22,Villa Del Rosario
+664,22,Villa General Belgrano
+665,22,Villa Maria
+666,22,Villa Urquiza
+667,22,jesus maria
+668,23,Jujuy
+669,23,LEDESMA
+670,23,Libertador Gral. San Martin
+671,23,Palpala
+672,23,Perico
+673,23,SAN PEDRO
+674,23,SAN SALVADOR DE JUJUY
+675,23,San Pedro de Jujuy
+676,23,San Salvador de Jujuy
+677,24,28 de Noviembre
+678,24,Caleta Olivia
+679,24,El Calafate
+680,24,Gobernador Gregores
+681,24,Las Heras
+682,24,Perito Moreno
+683,24,Pico Truncado
+684,24,Piedra Buena
+685,24,Puerto Deseado
+686,24,Puerto Santa Cruz
+687,24,Rio Gallegos
+688,24,Río Gallegos
+689,24,San Julian
+690,24,Santa Cruz
+691,24,Yacimientos Rio Turbio
