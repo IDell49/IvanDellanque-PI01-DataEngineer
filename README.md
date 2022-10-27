@@ -26,3 +26,4 @@ this will fill up the folder 'Datasets relevamiento precios new' with all the .c
 
 And that's it!
 
+The file dump-pi_01_dataengineer-202210271715.sql allows you to remake the whole database before the incremental_load
